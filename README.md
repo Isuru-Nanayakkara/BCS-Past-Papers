@@ -243,7 +243,7 @@
 
 <details>
 
-<summary>Object Oriented Programming Systems</summary>
+<summary>Object Oriented Programming</summary>
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
@@ -253,13 +253,13 @@
 |      | April     |     ✅     |       ✅        |
 | 2021 | October   |     ✅     |       ✅        |
 |      | May       |     ✅     |       ✅        |
-| 2020 | November  |     ❌     |       ❌        |
-|      | March     |     ❌     |       ❌        |
-| 2019 | September |     ❌     |       ❌        |
-|      | March     |     ❌     |       ❌        |
-| 2018 | September |     ❌     |       ❌        |
-|      | March     |     ❌     |       ❌        |
-| 2017 | September |     ❌     |       ❌        |
+| 2020 | November  |     ✅     |       ✅        |
+|      | March     |     ✅     |       ✅        |
+| 2019 | September |     ✅     |       ✅        |
+|      | March     |     ✅     |       ✅        |
+| 2018 | September |     ✅     |       ❌        |
+|      | March     |     ❌     |       ✅        |
+| 2017 | September |     ❌     |       ✅        |
 |      | March     |     ❌     |       ❌        |
 | 2016 | September |     ❌     |       ❌        |
 |      | March     |     ✅     |       ✅        |
