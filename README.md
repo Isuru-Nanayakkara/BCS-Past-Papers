@@ -21,7 +21,7 @@
 | 2018 | September |     ✅     |       ❌        |
 |      | March     |     ✅     |       ✅        |
 | 2017 | September |     ✅     |       ✅        |
-|      | March     |     ❌     |       ✅        |
+|      | March     |     ✅     |       ✅        |
 | 2016 | September |     ✅     |       ✅        |
 |      | March     |     ✅     |       ✅        |
 | 2015 | September |     ✅     |       ✅        |
