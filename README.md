@@ -669,3 +669,24 @@
 <br>
 
 ### FAQ
+
+<details>
+<summary>How can I download the past papers?</summary>
+
+Click on the green button titled 'Code'. From the drop down, select 'Download Zip'.
+
+</details>
+
+<details>
+<summary>Why only past papers from 2010 in available?</summary>
+
+This was a deliberate decision. BCS HEQ has gone through several syllabus revisions in the past two decades. Those old past papers are likely mostly outdated. Therefore they were omitted.
+
+</details>
+
+<details>
+<summary></summary>
+
+
+
+</details>
