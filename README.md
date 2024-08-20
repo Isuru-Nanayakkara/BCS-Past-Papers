@@ -84,7 +84,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
-| 2024 | April     |     ❌     |       ✅        |
+| 2024 | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2022 | October   |     ✅     |       ✅        |
@@ -469,7 +469,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
-| 2024 | April     |     ❌     |       ✅        |
+| 2024 | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2022 | October   |     ✅     |       ✅        |
@@ -709,7 +709,5 @@ This was a deliberate decision. BCS HEQ has gone through several syllabus revisi
 
 <details>
 <summary></summary>
-
-
 
 </details>
