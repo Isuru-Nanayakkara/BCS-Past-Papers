@@ -578,7 +578,7 @@
 |      | March     |     ✅     |       ❌        |
 | 2017 | September |     ✅     |       ✅        |
 |      | March     |     ✅     |       ✅        |
-| 2016 | September |     ✅     |       ❌        |
+| 2016 | September |     ❌     |       ✅        |
 |      | March     |     ✅     |       ✅        |
 | 2015 | October   |     ✅     |       ✅        |
 |      | March     |     ✅     |       ✅        |
