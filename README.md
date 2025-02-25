@@ -560,7 +560,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
-| 2024 | October   |     ❌     |       ❌        |
+| 2024 | October   |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
 | 2022 | October   |     ✅     |       ✅        |
 | 2021 | October   |     ❌     |       ❌        |
