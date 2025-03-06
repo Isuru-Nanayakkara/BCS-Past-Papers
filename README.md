@@ -482,7 +482,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
-| 2024 | October   |     ❌     |       ❌        |
+| 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
@@ -648,7 +648,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
-| 2024 | October   |     ❌     |       ❌        |
+| 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
