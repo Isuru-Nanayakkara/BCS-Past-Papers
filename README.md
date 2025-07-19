@@ -8,6 +8,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -47,6 +48,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -86,6 +88,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -127,6 +130,7 @@
 
 | Year | Session | Past Paper | Examiner Report |
 | ---- | ------- | :--------: | :-------------: |
+| 2025 | April   |     ✅     |       ✅        |
 | 2024 | October |     ✅     |       ✅        |
 |      | April   |     ✅     |       ✅        |
 | 2023 | October |     ✅     |       ✅        |
@@ -144,6 +148,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -183,6 +188,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -222,6 +228,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -261,6 +268,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -300,6 +308,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | April     |     ✅     |       ✅        |
 | 2023 | April     |     ✅     |       ✅        |
 | 2022 | April     |     ✅     |       ❌        |
@@ -326,6 +335,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -365,6 +375,7 @@
 
 | Year | Session | Past Paper | Examiner Report |
 | ---- | ------- | :--------: | :-------------: |
+| 2025 | April   |     ✅     |       ✅        |
 | 2024 | October |     ✅     |       ✅        |
 |      | April   |     ✅     |       ✅        |
 | 2023 | October |     ✅     |       ✅        |
@@ -382,6 +393,7 @@
 
 | Year | Session  | Past Paper | Examiner Report |
 | ---- | -------- | :--------: | :-------------: |
+| 2025 | April    |     ✅     |       ✅        |
 | 2024 | April    |     ✅     |       ✅        |
 | 2023 | April    |     ✅     |       ✅        |
 | 2022 | April    |     ✅     |       ✅        |
@@ -407,6 +419,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ❌        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -446,6 +459,7 @@
 
 | Year | Session | Past Paper | Examiner Report |
 | ---- | ------- | :--------: | :-------------: |
+| 2025 | April   |     ✅     |       ✅        |
 | 2024 | October |     ✅     |       ❌        |
 |      | April   |     ✅     |       ✅        |
 | 2023 | October |     ✅     |       ✅        |
@@ -463,6 +477,7 @@
 
 | Year | Session | Past Paper | Examiner Report |
 | ---- | ------- | :--------: | :-------------: |
+| 2025 | April   |     ✅     |       ✅        |
 | 2024 | October |     ✅     |       ❌        |
 |      | April   |     ✅     |       ✅        |
 | 2023 | October |     ✅     |       ✅        |
@@ -482,6 +497,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -521,6 +537,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -579,6 +596,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -608,6 +626,7 @@
 
 | Year | Session  | Past Paper | Examiner Report |
 | ---- | -------- | :--------: | :-------------: |
+| 2025 | April    |     ✅     |       ✅        |
 | 2024 | April    |     ✅     |       ✅        |
 | 2023 | April    |     ✅     |       ✅        |
 | 2022 | April    |     ✅     |       ❌        |
@@ -628,6 +647,7 @@
 
 | Year | Session  | Past Paper | Examiner Report |
 | ---- | -------- | :--------: | :-------------: |
+| 2025 | April    |     ✅     |       ✅        |
 | 2024 | April    |     ✅     |       ✅        |
 | 2023 | April    |     ✅     |       ✅        |
 | 2022 | April    |     ✅     |       ❌        |
@@ -648,6 +668,7 @@
 
 | Year | Session   | Past Paper | Examiner Report |
 | ---- | --------- | :--------: | :-------------: |
+| 2025 | April     |     ✅     |       ✅        |
 | 2024 | October   |     ✅     |       ✅        |
 |      | April     |     ✅     |       ✅        |
 | 2023 | October   |     ✅     |       ✅        |
@@ -677,6 +698,7 @@
 
 | Year | Session  | Past Paper | Examiner Report |
 | ---- | -------- | :--------: | :-------------: |
+| 2025 | April    |     ✅     |       ✅        |
 | 2024 | April    |     ✅     |       ✅        |
 | 2023 | April    |     ✅     |       ✅        |
 | 2022 | April    |     ✅     |       ✅        |
@@ -697,6 +719,7 @@
 
 | Year | Session  | Past Paper | Examiner Report |
 | ---- | -------- | :--------: | :-------------: |
+| 2025 | April    |     ✅     |       ✅        |
 | 2024 | April    |     ✅     |       ✅        |
 | 2023 | April    |     ✅     |       ✅        |
 | 2022 | April    |     ✅     |       ❌        |
